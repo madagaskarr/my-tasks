@@ -19,8 +19,10 @@
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/_bottom_nav_bar"
         android:layout_width="0dp"
+        app:itemIconTint="@drawable/bottom_bar_selected"
+        app:itemTextColor="@drawable/bottom_bar_selected"
         app:menu="@menu/bottom_navigation_destinations"
-        android:background="#0E2375"
+        android:background="#070D27"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
