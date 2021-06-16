@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard_menu_item"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"/>
+
+    <item
+        android:id="@+id/create_task_menu_item"
+        android:title="Create"
+        android:icon="@drawable/ic_baseline_control_point_24"/>
+
+    <item
+        android:id="@+id/workspaces_menu_item"
+        android:title="Workspaces"
+        android:icon="@drawable/ic_baseline_cloud_queue_24"/>
+
+
+
+
+</menu>
